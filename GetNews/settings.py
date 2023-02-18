@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-lsvnq+e0c-xg2zz7%a66f=h#ridojbpd)0$_lxkxg1t=i4m_$m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['getnews-22-ayush-singh-07.onrender.com']
 
 
 # Application definition
