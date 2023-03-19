@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import requests
 
-API_KEY=''+process.env.API_KEY
+API_KEY=''+env.API_KEY
 
 
 # Create your views here.
